@@ -28,7 +28,7 @@ I am someone who is passionate about Web Development. I'm interesting to learnin
  <img src="./linkdin.png" alt="linkedin" height="40" style="vertical-align:top; margin:10px">
 </a>
   <a href="https://www.facebook.com/vindula.thisal" target="_blank" rel="noopener noreferrer"> 
-<img src="./facebook.png" alt="facebook" height="40" style="vertical-align:top; margin:10px">
+<img src="./Facebook.png" alt="facebook" height="40" style="vertical-align:top; margin:10px">
 </a>
 
 
