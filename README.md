@@ -26,11 +26,8 @@
 
 
 ## GIT STATS
-
-</br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thisalvindula&&show_icons=true&count_private=true&theme=radical"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisalvindula&theme=radical"/></p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=thisalvindula&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisalvindula&theme=radical"/>|
+|---|---|
 </br>
 
 ## TOP PROGRAMMING LANGUAGES
