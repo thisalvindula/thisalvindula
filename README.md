@@ -7,7 +7,7 @@
 </br>
 
 - 🏫 I’m currently studing at University of Moratuwa.
-- 🎓 I’m currently reading for BSC Hons Information Technology and Management Degree.
+- 🎓 I’m currently reading for BSC Hons in Information Technology Degree.
 - 💞️ I’m passionate in web app designing
 
 
